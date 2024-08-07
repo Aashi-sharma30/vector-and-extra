@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../Problem Solving"
+		},
+		{
+			"path": "../../os"
+		},
+		{
+			"path": "../../python"
+		},
+		{
+			"path": "../../web_D"
+		},
+		{
+			"path": "../../web"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Java"
+		},
+		{
+			"path": "../../daa"
+		},
+		{
+			"path": "../../practical"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_D",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
